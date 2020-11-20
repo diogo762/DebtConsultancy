@@ -1,0 +1,15 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+------------------------------------
+-726--Diferenca de dias 
+-726--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Falencia--Tipo 
+Falências--Valor colmeia 
+------------------------------------
+34330577000183--Documento 
+34330577000183--Valor colmeia 

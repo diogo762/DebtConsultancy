@@ -1,0 +1,1 @@
+org.junit.ComparisonFailure: expected:<-50[1]> but was:<-50[2]>--Occoreu um erro nesse cenario verifique o log

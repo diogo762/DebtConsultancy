@@ -1,0 +1,17 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+100000--Valor da Base - 
+100000--Valor colmeia - valor
+------------------------------------
+936--Diferenca de dias 
+936--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Pendência de Pagamento--Tipo 
+Pendência de Pagamento--Valor colmeia 
+------------------------------------
+6898636910--Documento 
+6898636910--Valor colmeia 

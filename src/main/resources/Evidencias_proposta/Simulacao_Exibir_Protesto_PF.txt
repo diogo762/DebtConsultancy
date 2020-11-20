@@ -1,0 +1,17 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+47500--Valor da Base - 
+47500--Valor colmeia - valor
+------------------------------------
+-229--Diferenca de dias 
+-229--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Protesto--Tipo 
+Protesto--Valor colmeia 
+------------------------------------
+6898636910--Documento 
+6898636910--Valor colmeia 

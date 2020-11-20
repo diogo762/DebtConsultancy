@@ -1,0 +1,5 @@
+Q1JFU1NPTA==--Valor da Base criptografado
+Q1JFU1NPTA==--Valor colmeia criptografado
+-----------------------------------------------------
+CRESSOL--Valor da Base descriptografado
+CRESSOL--Valor colmeia descriptografado

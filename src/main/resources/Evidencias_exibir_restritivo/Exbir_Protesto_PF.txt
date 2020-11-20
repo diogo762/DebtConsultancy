@@ -1,0 +1,14 @@
+22/08/2018--Valor da Base - dt_protesto
+22/08/2018--Valor colmeia - data ocorrencia
+------------------------------------
+475,00--Valor da Base - vl_protesto
+475,00--Valor colmeia - valor
+------------------------------------
+1--Valor da Base - nro_cartorio
+1--Valor colmeia - cartorio
+------------------------------------
+BRAGANCA PAULISTA--Valor da Base - nome_cidade
+BRAGANCA PAULISTA--Valor colmeia - cidade
+------------------------------------
+SP--Valor da Base - uf
+SP--Valor colmeia - uf

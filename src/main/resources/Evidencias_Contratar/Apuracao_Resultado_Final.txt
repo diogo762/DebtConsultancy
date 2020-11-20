@@ -1,0 +1,2 @@
+1,00--Valor da Base - reg_desscricao
+1,00--valor colmeia

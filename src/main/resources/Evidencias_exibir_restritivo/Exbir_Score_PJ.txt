@@ -1,0 +1,2 @@
+5--Valor da Base - classificacao_numerica
+5--Valor colmeia - score

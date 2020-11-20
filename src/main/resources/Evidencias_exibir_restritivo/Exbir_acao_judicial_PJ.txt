@@ -1,0 +1,11 @@
+0,00--Valor da Base - vl_acao
+0,00--Valor colmeia - valor
+------------------------------------
+ACAO EXECUTIVA FEDERAL--Valor da Base - texto_acao
+ACAO EXECUTIVA FEDERAL--Valor colmeia - natureza acao
+------------------------------------
+GO--Valor da Base - uf
+GO--Valor colmeia - uf
+------------------------------------
+GOIANIA--Valor da Base - descricao_foro
+GOIANIA--Valor colmeia - cidade

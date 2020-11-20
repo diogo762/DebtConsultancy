@@ -1,0 +1,14 @@
+01/07/2019--Valor da Base - dt_ultimo_cheque
+01/07/2019--Valor colmeia - data ocorrencia
+------------------------------------
+BANCO DO BRASIL S.A.--Valor da Base - nome_banco
+BANCO DO BRASIL S.A.--Valor colmeia - banco
+------------------------------------
+1840--Valor da Base - cod_agencia
+1840--Valor colmeia - agencia
+------------------------------------
+12--Valor da Base - motivo_cheque_sem_fundo
+12--Valor colmeia - alinea
+------------------------------------
+2--Valor da Base - quantidade_cheque_sem_fundo
+2--Valor colmeia - quantidade

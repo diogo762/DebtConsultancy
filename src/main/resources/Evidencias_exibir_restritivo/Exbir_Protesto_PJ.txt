@@ -1,0 +1,14 @@
+02/10/2019--Valor da Base - dt_protesto
+02/10/2019--Valor colmeia - data ocorrencia
+------------------------------------
+180,00--Valor da Base - vl_protesto
+180,00--Valor colmeia - valor
+------------------------------------
+4--Valor da Base - nro_cartorio
+4--Valor colmeia - cartorio
+------------------------------------
+CURITIBA--Valor da Base - nome_cidade
+CURITIBA--Valor colmeia - cidade
+------------------------------------
+PR--Valor da Base - uf
+PR--Valor colmeia - uf

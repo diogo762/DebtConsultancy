@@ -1,0 +1,15 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+------------------------------------
+-581--Diferenca de dias 
+-581--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Acao judicial--Tipo 
+Ações Judiciais--Valor colmeia 
+------------------------------------
+34330577000183--Documento 
+34330577000183--Valor colmeia 

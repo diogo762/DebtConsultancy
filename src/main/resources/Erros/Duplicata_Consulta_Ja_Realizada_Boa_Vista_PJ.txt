@@ -1,0 +1,1 @@
+org.junit.ComparisonFailure: expected:<...ustos a cooperativa?[]> but was:<...ustos a cooperativa?[ ]>--Occoreu um erro nesse cenario verifique o log

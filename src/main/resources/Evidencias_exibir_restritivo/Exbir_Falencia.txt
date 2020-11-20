@@ -1,0 +1,5 @@
+01/01/2020--Valor da Base - dt_falencia
+01/01/2020--Valor colmeia - data ocorrencia
+------------------------------------
+MOCK--Valor da Base - tipo_ocorrencia
+MOCK--Valor colmeia - valor

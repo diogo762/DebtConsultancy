@@ -1,0 +1,15 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+------------------------------------
+525--Diferenca de dias 
+525--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Divida vencida--Tipo 
+Dívida Vencida--Valor colmeia 
+------------------------------------
+83638668000196--Documento 
+83638668000196--Valor colmeia 

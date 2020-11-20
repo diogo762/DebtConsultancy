@@ -1,0 +1,15 @@
+0--Data de inclusao - 
+0--Diferenca de dias base - colmeia
+------------------------------------
+------------------------------------
+-542--Diferenca de dias 
+-542--Valor colmeia 
+------------------------------------
+Restritivo Externo - Boa Vista--Origem 
+Restritivo Externo - Boa Vista--Valor colmeia 
+------------------------------------
+Cheque sem Fundo--Tipo 
+Cheque sem Fundo--Valor colmeia 
+------------------------------------
+34330577000183--Documento 
+34330577000183--Valor colmeia 

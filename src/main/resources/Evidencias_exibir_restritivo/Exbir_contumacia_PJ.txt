@@ -1,0 +1,20 @@
+16/04/2020--Valor da Base - dt_ocorrencia
+16/04/2020--Valor colmeia - data ocorrencia
+------------------------------------
+Banco do Brasil--Valor da Base - nome_banco
+Banco do Brasil--Valor colmeia - instituicao
+------------------------------------
+806--Valor da Base - cod_agencia
+806--Valor colmeia - agencia
+------------------------------------
+21--Valor da Base - nro_conta_corrente
+21--Valor colmeia - conta
+------------------------------------
+78--Valor da Base - nro_cheque_inicial
+78--Valor colmeia - num cheque inicial
+------------------------------------
+78--Valor da Base - nro_cheque_final
+78--Valor colmeia - num cheque final
+------------------------------------
+Motivo--Valor da Base - descricao_alinea
+Motivo--Valor colmeia - motivo

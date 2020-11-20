@@ -1,0 +1,1 @@
+java.lang.AssertionError: Values should be different. Actual: CONSULTA DESATUALIZADA--Occoreu um erro nesse cenario verifique o log

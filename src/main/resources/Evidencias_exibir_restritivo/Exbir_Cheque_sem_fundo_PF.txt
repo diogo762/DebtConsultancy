@@ -1,0 +1,26 @@
+10/10/2017--Valor da Base - dt_ocorrencia
+10/10/2017--Valor colmeia - data ocorrencia
+------------------------------------
+0,01--Valor da Base - vl_cheque_devolvido
+0,01--Valor colmeia - valor
+------------------------------------
+50--Valor da Base - cod_agencia
+50--Valor colmeia - agencia
+------------------------------------
+12--Valor da Base - motivo_cheque_sem_fundo
+12--Valor colmeia - alinea
+------------------------------------
+CURITIBA--Valor da Base - nome_cidade
+CURITIBA--Valor colmeia - cidade
+------------------------------------
+PR--Valor da Base - uf
+PR--Valor colmeia - uf
+------------------------------------
+1--Valor da Base - nro_cheque_inicial
+1--Valor colmeia - num cheque inicial
+------------------------------------
+1--Valor da Base - nro_cheque_final
+1--Valor colmeia - num cheque final
+------------------------------------
+1--Valor da Base - quantidade_cheque
+1--Valor colmeia - quantidade

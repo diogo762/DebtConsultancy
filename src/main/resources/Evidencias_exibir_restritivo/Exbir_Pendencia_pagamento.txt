@@ -1,0 +1,17 @@
+11/03/2020--Valor da Base - dt_registro
+11/03/2020--Valor colmeia - data ocorrencia
+------------------------------------
+115,00--Valor da Base - vl_debito
+115,00--Valor colmeia - valor
+------------------------------------
+TESTE--Valor da Base - nro_contrato
+TESTE--Valor colmeia - contrato
+------------------------------------
+RG--Valor da Base - tipo_ocorrencia
+RG--Valor colmeia - modalidade
+------------------------------------
+RJ-RJO/CDL RIO--Valor da Base - descricao_informante
+RJ-RJO/CDL RIO--Valor colmeia - empresa
+------------------------------------
+COMPRADOR--Valor da Base - situacao_pendencia
+NÃO--Valor colmeia - avalista

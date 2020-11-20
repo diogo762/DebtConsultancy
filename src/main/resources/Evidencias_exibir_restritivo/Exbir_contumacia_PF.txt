@@ -1,0 +1,18 @@
+10/10/2017--Valor da Base - dt_ocorrencia
+10/10/2017--Valor colmeia - data ocorrencia
+------------------------------------
+------------------------------------
+5--Valor da Base - cod_agencia
+5--Valor colmeia - agencia
+------------------------------------
+2--Valor da Base - nro_conta_corrente
+2--Valor colmeia - conta
+------------------------------------
+3--Valor da Base - nro_cheque_inicial
+3--Valor colmeia - num cheque inicial
+------------------------------------
+7--Valor da Base - nro_cheque_final
+7--Valor colmeia - num cheque final
+------------------------------------
+SEM FUNDOS - 2o.APRESENTACAO--Valor da Base - descricao_alinea
+SEM FUNDOS - 2o.APRESENTACAO--Valor colmeia - motivo

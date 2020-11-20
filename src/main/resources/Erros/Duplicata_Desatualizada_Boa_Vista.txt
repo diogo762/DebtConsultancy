@@ -1,0 +1,1 @@
+org.junit.ComparisonFailure: expected:<[CONSULTA DESATUALIZADA]> but was:<[SEM RESTRITIVOS]>--Occoreu um erro nesse cenario verifique o log

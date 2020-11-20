@@ -1,0 +1,11 @@
+15/03/2019--Valor da Base - dt debito
+15/03/2019--Valor colmeia - data ocorrencia
+------------------------------------
+71,81--Valor da Base - vl_divida_vencida
+71,81--Valor colmeia - valor
+------------------------------------
+ASSOCIACAO COMERCIAL DO PARANA--Valor da Base - nome informante
+ASSOCIACAO COMERCIAL DO PARANA--Valor colmeia - Empresa
+------------------------------------
+0001648800--Valor da Base - documento_origem
+0001648800--Valor colmeia - numero contrato

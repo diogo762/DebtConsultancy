@@ -1,0 +1,1 @@
+org.junit.ComparisonFailure: expected:<[Restritivo Externo - Serasa]> but was:<[Data/Hora da Consulta SCR]>--Occoreu um erro nesse cenario verifique o log
