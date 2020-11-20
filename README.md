@@ -1,3 +1,3 @@
 # DebtConsultancy 
 
-Automated tests using Junit, Selenium and Java for The DebtConsultancy project
+Automated tests using Junit, Selenium WebDriver and Java for The Debt Consultancy project
